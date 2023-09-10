@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Amjad Khabbas!</h1>
 <h3 align="center">A passionate Software Developer Studying at York University</h3>
 
-- 🔭 I’m currently working on **Completing School and improving my skill!**
+- 🔭 I’m currently working on Completing my Bachelors in Computer science
 
-- 🌱 I’m currently learning **Data Analytics and Machine Learning.**
+- 🌱 I’m currently learning Data Analytics and Machine Learning
 
-- 💬 Ask me about **Data analysis and team management skills.**
+- 💬 Ask me about Data analysis, Financial Analysis, or anything you may need help with!
 
 - 📫 How to reach me **AmjadKhabbasCS@gmail.com**
 
-- ⚡ Fun fact **I play semi-pro Esports with my school as a passion for video games!**
+- ⚡ Fun fact I play semi-pro Esports with my York University!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
