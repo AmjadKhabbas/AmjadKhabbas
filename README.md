@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **AmjadKhabbasCS@gmail.com**
 
-- ⚡ Fun fact I play semi-pro Esports with my York University!
+- ⚡ Fun fact I play semi-pro Esports with my school York University!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
